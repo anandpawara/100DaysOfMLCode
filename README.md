@@ -6,7 +6,9 @@
 
 ### Day 1: 18 March 2019
 
-**Today's Progress**:Deployed first SMS spam detector ML flask app on Heroku
+**Today's Progress**:Deployed first SMS spam detector ML flask app on Heroku.
+
+
 **Thoughts** : Finally after fidgeting with Heroku deployed on Heroku server
 
 **Link(s) to work**
