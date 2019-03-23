@@ -31,4 +31,8 @@
 
 [Github link](https://github.com/llSourcell/how_to_deploy_a_keras_model_to_production)
 
-[vide Link](https://www.youtube.com/watch?v=f6Bf3gl4hWY&feature=youtu.be)
+[Video Link](https://www.youtube.com/watch?v=f6Bf3gl4hWY&feature=youtu.be)
+
+[Deployed App Link](https://glacial-temple-26332.herokuapp.com/)
+
+[github Link to my current project](https://github.com/anandpawara/DigitRecognizer)
