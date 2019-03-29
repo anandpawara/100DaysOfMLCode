@@ -71,12 +71,3 @@ Flask REST api reading materials
 
 
 [My github link for the above blog](https://github.com/anandpawara/flask_api)
-
-
-
-[Video Link](https://www.youtube.com/watch?v=f6Bf3gl4hWY&feature=youtu.be)
-
-
-[Deployed App Link](https://glacial-temple-26332.herokuapp.com/)
-
-[github Link to my current project](https://github.com/anandpawara/DigitRecognizer)
