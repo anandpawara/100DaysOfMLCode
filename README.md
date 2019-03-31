@@ -71,3 +71,27 @@ Flask REST api reading materials
 
 
 [My github link for the above blog](https://github.com/anandpawara/flask_api)
+
+### Day 12-13: 30-31 March 2019
+
+**Today's Progress**:
+1.Updated Digit recognizer flaskapp to load custom model build from scrath in keras 
+
+2.Learned on loading and saving model and image preprocessing using for predict() method
+
+3.Pushed marai project on git Neat algorithm to play mario game  
+
+**Thoughts** :
+
+1.Marai was fun to code needs more training and further try to implement DQN algorithm
+
+2.Working to flaskapp to recognize handwritthen characters and fine tuning to digit recognition
+
+**Link(s) to work**
+
+[Digit_recognizer_flask_app](https://github.com/anandpawara/DigitRecognizer)
+[Marai to play mario game](https://github.com/anandpawara/Marai)
+
+[Step on deploying flask web app on Heroku server](https://github.com/realpython/flask-boilerplate)
+
+[spam detector web app](https://medium.com/the-andela-way/deploying-a-python-flask-app-to-heroku-41250bda27d0)
