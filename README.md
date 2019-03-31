@@ -91,4 +91,7 @@ Flask REST api reading materials
 
 [Digit_recognizer_flask_app](https://github.com/anandpawara/DigitRecognizer)
 
+[Digit recognizer Deployed App Link](https://glacial-temple-26332.herokuapp.com/)
+
+
 [Marai to play mario game](https://github.com/anandpawara/Marai)
