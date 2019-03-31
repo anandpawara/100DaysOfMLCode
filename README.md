@@ -90,8 +90,5 @@ Flask REST api reading materials
 **Link(s) to work**
 
 [Digit_recognizer_flask_app](https://github.com/anandpawara/DigitRecognizer)
+
 [Marai to play mario game](https://github.com/anandpawara/Marai)
-
-[Step on deploying flask web app on Heroku server](https://github.com/realpython/flask-boilerplate)
-
-[spam detector web app](https://medium.com/the-andela-way/deploying-a-python-flask-app-to-heroku-41250bda27d0)
