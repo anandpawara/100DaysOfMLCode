@@ -105,7 +105,7 @@ Flask REST api reading materials
 
 **Link(s) to work**
 
-[Link to tutorial(https://www.kaggle.com/anand8045/emnist-gpu-keras-to-tf)
+[Link to tutorial](https://www.kaggle.com/anand8045/emnist-gpu-keras-to-tf)
 
 [Handwritten digit and character recognizer](https://glacial-temple-26332.herokuapp.com)
 
