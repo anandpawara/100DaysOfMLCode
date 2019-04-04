@@ -95,3 +95,18 @@ Flask REST api reading materials
 
 
 [Marai to play mario game](https://github.com/anandpawara/Marai)
+
+### Day 14-17: 4 April 2019
+
+**Today's Progress**:Deployed character and digit recognizer
+
+
+**Thoughts** : Deployed web app for recognizing handwritten digits and characters
+
+**Link(s) to work**
+
+[Link to tutorial(https://www.kaggle.com/anand8045/emnist-gpu-keras-to-tf)
+
+[Handwritten digit and character recognizer](https://glacial-temple-26332.herokuapp.com)
+
+[spam detector web app](https://medium.com/the-andela-way/deploying-a-python-flask-app-to-heroku-41250bda27d0)
