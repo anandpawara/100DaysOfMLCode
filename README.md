@@ -110,3 +110,15 @@ Flask REST api reading materials
 [Handwritten digit and character recognizer](https://glacial-temple-26332.herokuapp.com)
 
 [spam detector web app](https://medium.com/the-andela-way/deploying-a-python-flask-app-to-heroku-41250bda27d0)
+
+### Day 18-21: 12 April 2019
+
+**Today's Progress**:Learned about Transfer learning tried to use moble net using transer learning but found that image size for emnist dataset is small and also tried resizing image but found out that it is accuracy decreased than before
+Worked on frontend for the project
+
+**Thoughts** :Transfer Learning is effective tool for quick prototype to achieve good results
+
+
+
+
+
