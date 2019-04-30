@@ -118,7 +118,17 @@ Worked on frontend for the project
 
 **Thoughts** :Transfer Learning is effective tool for quick prototype to achieve good results
 
+### Day 22: 30 April 2019
 
+**Today's Progress**:Started working on kaggle airbus ship detection challenge .Gone through various kernels trying to understand U-net model and trying to implement on local machines
+
+**Thoughts** :Trying to understand run length encoding and data visualization as well
+
+**Link(s) to work**
+
+[Link to challenge](https://www.kaggle.com/c/airbus-ship-detection)
+
+[Link to kernel](https://www.kaggle.com/super13579/u-net-base-on-resnet34-transfer-learning-keras)
 
 
 
