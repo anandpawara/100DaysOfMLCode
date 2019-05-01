@@ -130,5 +130,14 @@ Worked on frontend for the project
 
 [Link to kernel](https://www.kaggle.com/super13579/u-net-base-on-resnet34-transfer-learning-keras)
 
+### Day 23: 1 May 2019
+
+**Today's Progress**:Gone through kernel on kaggle also trying to understand U-net model ,run length encoding/decoding as well as data processing.Learned about submitting submission on kaggle
+
+**Thoughts** :Data preprocssing seems difficult and rle decoding also took some to understand code
+
+**Link(s) to work**
+
+[tutorial link](https://www.kaggle.com/super13579/u-net-base-on-resnet34-transfer-learning-keras)
 
 
